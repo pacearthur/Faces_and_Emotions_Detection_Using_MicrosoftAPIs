@@ -25,7 +25,7 @@ class EmotionCapture():
             
     def __init__(self):
         self.flow = cv2.VideoCapture(0)
-        self.subscription_key = 'a4c51bb3b2f04086b706f15ff6142cdd'
+        self.subscription_key = ''
         assert self.subscription_key
         self.face_api_url = ' https://westeurope.api.cognitive.microsoft.com/face/v1.0/detect'
         now = datetime.datetime.now()
