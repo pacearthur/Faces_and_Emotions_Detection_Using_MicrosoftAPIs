@@ -4,3 +4,4 @@ This project, which is the result of a partnership between Capgemini and Microso
 
 
 ![github-small](https://user-images.githubusercontent.com/33637884/62208672-d49cf300-b397-11e9-94b0-faad804ab5b7.PNG)
+![github-small](https://user-images.githubusercontent.com/33637884/62208802-247bba00-b398-11e9-8972-6aebf6a6140a.PNG)
